@@ -1,6 +1,6 @@
 # Capstone-Documentation
 
-I had the pleasure to work on this project with 5 of my most talented colleagues from UBC ELEC, Bennett Galamaga, James Marx, Tenna Yuan, Callum O’Riley, and Suhail Khalil. While I am not at liberty to share everything, I would be happy to provide design files upon request. I have also included some of our key capstone design documentation, but here are the highlights!
+I had the pleasure to work on this project with 5 of my most talented colleagues from UBC ELEC, Bennett Galamaga, James Marx, Tenna Yuan, Callum O’Riley, and Suhail Khalil. While I am not at liberty to share everything, I would be happy to provide design files upon request. I have also included some of our key capstone design documentation, verification and validation is my favouriute because thats where you get to see how we confirmed all our claims. Here are the highlights!
 
 We replaced a full silicon photonics lab spectroscopy setup with a single PCB, cutting the cost from $42,000 to just $700!
 
