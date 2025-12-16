@@ -1,6 +1,6 @@
 # Capstone-Documentation
 
-I had the pleasure to work on this project with 5 of my most talented colleagues from UBC ELEC, Bennett Galamaga, James Marx, Tenna Yuan, Callum O’Riley, and Suhail Khalil.
+I had the pleasure to work on this project with 5 of my most talented colleagues from UBC ELEC, Bennett Galamaga, James Marx, Tenna Yuan, Callum O’Riley, and Suhail Khalil. While I am not at liberty to share, I would be happy to provide design files upon request.
 
 
 We replaced a full silicon photonics lab spectroscopy setup with a single PCB, cutting the cost from $42,000 to just $700!
