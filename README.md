@@ -19,3 +19,6 @@ We implemented a custom firmware-software communication protocol, allowing for r
 <img width="1140" height="865" alt="GREG screenshot" src="https://github.com/user-attachments/assets/4827fceb-3c7f-4316-8c3a-683edbcdb622" />
 
 Our system is so convenient that some UBC researchers prefer using it over the $42,000 benchtop setup. Our work is currently pending publication.
+
+
+
